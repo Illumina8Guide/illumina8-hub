@@ -1,10 +1,10 @@
 export default function Home() {
-  const links = [
-  { title: "Enter Beta v0.1", href: "/beta", note: "Primary entry point" },
-  { title: "GitHub", href: "/github", note: "Source and builds" },
-  { title: "Virtuals Protocol", href: "/virtuals", note: "Protocol presence" },
-  { title: "Shop (Merch)", href: "/shop", note: "Shopify storefront" },
-  { title: "X (Twitter)", href: "/x", note: "Updates & announcements" },
+ const links = [
+  { title: "Illumina8 Apps", href: "/beta", note: "Active dApps & AI agents" },
+  { title: "Social Media", href: "/x", note: "Updates & announcements" },
+  { title: "Merchandise", href: "/shop", note: "Official Illumina8 store" },
+  { title: "The Project", href: "/virtuals", note: "Protocol presence" },
+  { title: "Collaboration", href: "/github", note: "Open development & builds" },
 ];
 
   return (
